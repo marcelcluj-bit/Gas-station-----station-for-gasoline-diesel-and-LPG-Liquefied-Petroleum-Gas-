@@ -47,6 +47,11 @@ python highway_energy_hub_builder.py
 ▼
 [ Web3 RWA Smart Contract (Monthly Yield Distribution) ]
 
+
+[📥 Download Project Documentation (.DOCX)](./benzinarie.docx)
+
+
+
 ## License
 Distributed under the MIT License. Open-source for global infrastructure builders and developers.
 
